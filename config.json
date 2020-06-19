@@ -1,4 +1,4 @@
 {
-  "dl": "http://meuse:8855/api/v1/mirror",
-  "api": "http://mesue:8855"
+  "dl": "http://localhost:8855/api/v1/mirror",
+  "api": "http://localhost:8855"
 }
